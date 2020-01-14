@@ -1,6 +1,6 @@
 # nextjs-with-tsm-example
 
-Basic example of usage Nextjs with TypeScript, SCSS and auto-gen typings for `*.scss` files using [typed-scss-modules](https://github.com/skovy/typed-scss-modules)
+Basic example of usage Nextjs with TypeScript, scss-modules and auto-gen typings for `*.scss` file class names using [typed-scss-modules](https://github.com/skovy/typed-scss-modules)
 
 ## Run the app
 ```bash
