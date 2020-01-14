@@ -1,0 +1,15 @@
+@import "styles/utils.scss";
+
+.container {
+  height: px(40);
+  width: 100%;
+  background-color: color(gray);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  color: color(black);
+  font-size: px(16);
+}
